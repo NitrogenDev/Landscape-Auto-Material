@@ -1,0 +1,1402 @@
+﻿Log file open, 11/14/20 15:53:51
+LogInit: Display: Running engine for game: AutoLandscapeMat
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.015790
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engines/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+[2020.11.14-13.53.52:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.14-13.53.52:804][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+[2020.11.14-13.53.52:804][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+[2020.11.14-13.53.52:812][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.14-13.53.52:812][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.14-13.53.52:813][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:813][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.14-13.53.52:814][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.14-13.53.52:814][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.14-13.53.52:814][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.14-13.53.52:814][  0]LogHAL: Display: Platform has ~ 32 GB [34286804992 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.14-13.53.52:815][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.14-13.53.52:815][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.14-13.53.52:815][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.14-13.53.52:816][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Scalability.ini]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.14-13.53.52:817][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/AutoLandscapeMat/Saved/Config/Windows/Engine.ini]
+[2020.11.14-13.53.52:817][  0]LogInit: Computer: DESKTOP-3H7B40H
+[2020.11.14-13.53.52:817][  0]LogInit: User: nitro
+[2020.11.14-13.53.52:817][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.14-13.53.52:817][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.14-13.53.52:818][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.11.14-13.53.52:818][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.14-13.53.52:818][  0]LogMemory: Process Physical Memory: 119.88 MB used, 119.88 MB peak
+[2020.11.14-13.53.52:818][  0]LogMemory: Process Virtual Memory: 96.88 MB used, 96.88 MB peak
+[2020.11.14-13.53.52:818][  0]LogMemory: Physical Memory: 12560.05 MB used,  20138.39 MB free, 32698.45 MB total
+[2020.11.14-13.53.52:818][  0]LogMemory: Virtual Memory: 5149.84 MB used,  134212576.00 MB free, 134217728.00 MB total
+[2020.11.14-13.53.52:826][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.14-13.53.53:091][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.14-13.53.53:095][  0]LogInit: Using OS detected language (en-US).
+[2020.11.14-13.53.53:095][  0]LogInit: Using OS detected locale (en-150).
+[2020.11.14-13.53.53:098][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.11.14-13.53.53:403][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.14-13.53.53:467][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.14-13.53.53:467][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.14-13.53.53:734][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.14-13.53.53:734][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.14-13.53.53:734][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.14-13.53.53:734][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.14-13.53.53:890][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2020.11.14-13.53.53:890][  0]LogD3D11RHI:       11127/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.11.14-13.53.53:894][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.14-13.53.53:894][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.14-13.53.53:894][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.14-13.53.53:905][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.14-13.53.53:905][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.14-13.53.53:905][  0]LogWindows: EnumDisplayDevices:
+[2020.11.14-13.53.53:905][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2020.11.14-13.53.53:905][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2020.11.14-13.53.53:906][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.11.14-13.53.53:906][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.11.14-13.53.53:906][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.14-13.53.53:906][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2020.11.14-13.53.53:906][  0]LogD3D11RHI:   Driver Version: 457.30 (internal:27.21.14.5730, unified:457.30)
+[2020.11.14-13.53.53:906][  0]LogD3D11RHI:      Driver Date: 11-6-2020
+[2020.11.14-13.53.53:906][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2020.11.14-13.53.53:978][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.14-13.53.53:978][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.14-13.53.53:978][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.11.14-13.53.54:005][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.14-13.53.54:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.14-13.53.54:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.14-13.53.54:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.14-13.53.54:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.14-13.53.54:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.14-13.53.54:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.14-13.53.54:657][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.14-13.53.54:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.14-13.53.54:682][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.14-13.53.54:692][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.14-13.53.54:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.14-13.53.54:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.14-13.53.54:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.14-13.53.54:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.14-13.53.54:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.14-13.53.54:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.14-13.53.55:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.14-13.53.55:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.14-13.53.55:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.14-13.53.55:077][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.14-13.53.55:092][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.14-13.53.55:684][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Unreal Projects/AutoLandscapeMat/Intermediate/Shaders/WorkingDirectory/21356/).
+[2020.11.14-13.53.55:684][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nitro/AppData/Local/Temp/UnrealShaderWorkingDir/B51FB78A4A9AC3B80F24638AFDC84752/'.
+[2020.11.14-13.53.55:710][  0]LogXGEController: Cleaning working directory: C:/Users/nitro/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.14-13.53.55:711][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.14-13.53.55:711][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.14-13.53.55:711][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.14-13.53.56:788][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.14-13.53.56:862][  0]LogDerivedDataCache: Loaded boot cache 0.07s 77MB C:/Users/nitro/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.14-13.53.56:862][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nitro/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.14-13.53.56:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/AutoLandscapeMat/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.14-13.53.56:863][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.14-13.53.56:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/AutoLandscapeMat/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.14-13.53.56:863][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.14-13.53.56:874][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.14-13.53.56:874][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.14-13.53.56:874][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.14-13.53.56:876][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nitro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.14-13.53.56:876][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.14-13.53.56:876][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.14-13.53.56:942][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.14-13.53.56:943][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.14-13.53.56:987][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2020.11.14-13.53.57:323][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.14-13.53.57:684][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.14-13.53.57:684][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.14-13.53.57:685][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.14-13.53.57:685][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.14-13.53.57:685][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.14-13.53.57:710][  0]LogNetVersion: AutoLandscapeMat 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2813821484)
+[2020.11.14-13.53.58:404][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001D6A923DBC0), frame # 0
+[2020.11.14-13.53.58:404][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6A916FC40), frame # 0
+[2020.11.14-13.53.58:406][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6A91E1C00), frame # 0
+[2020.11.14-13.53.58:485][  0]LogPackageLocalizationCache: Processed 21 localized package path(s) for 1 prioritized culture(s) in 0.071373 seconds
+[2020.11.14-13.53.58:494][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.14-13.53.58:494][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.14-13.53.58:494][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.14-13.54.00:342][  0]LogPython: Using Python 2.7.14
+[2020.11.14-13.54.02:355][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.14-13.54.02:362][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.14-13.54.02:729][  0]SourceControl: Source control is disabled
+[2020.11.14-13.54.02:729][  0]SourceControl: Source control is disabled
+[2020.11.14-13.54.02:752][  0]SourceControl: Source control is disabled
+[2020.11.14-13.54.02:767][  0]SourceControl: Source control is disabled
+[2020.11.14-13.54.03:031][  0]SourceControl: Source control is disabled
+[2020.11.14-13.54.03:938][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.14-13.54.04:035][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.14-13.54.04:035][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.14-13.54.04:212][  0]LogOcInput: OculusInput pre-init called
+[2020.11.14-13.54.04:255][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.14-13.54.04:255][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.14-13.54.04:825][  0]LogEngine: Initializing Engine...
+[2020.11.14-13.54.04:826][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.14-13.54.04:826][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.14-13.54.04:827][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.14-13.54.04:991][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.14-13.54.05:094][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.14-13.54.05:094][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6B440E200), frame # 0
+[2020.11.14-13.54.05:094][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6B4437240), frame # 0
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.14-13.54.05:127][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.14-13.54.05:127][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.14-13.54.05:127][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.14-13.54.05:167][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.14-13.54.05:167][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.14-13.54.05:225][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2020.11.14-13.54.05:227][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.14-13.54.05:230][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.14-13.54.05:230][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.14-13.54.05:231][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.14-13.54.05:234][  0]LogInit: FAudioDevice initialized.
+[2020.11.14-13.54.05:234][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.14-13.54.05:342][  0]LogDerivedDataCache: Saved boot cache 0.11s 77MB C:/Users/nitro/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.14-13.54.05:344][  0]LogInit: Texture streaming: Enabled
+[2020.11.14-13.54.05:428][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.14-13.54.05:428][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.14-13.54.05:431][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.14-13.54.05:495][  0]LogInit: Transaction tracking system initialized
+[2020.11.14-13.54.05:583][  0]BlueprintLog: New page: Editor Load
+[2020.11.14-13.54.05:910][  0]LocalizationService: Localization service is disabled
+[2020.11.14-13.54.06:291][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.14-13.54.06:291][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.14-13.54.06:646][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/AutoLandscapeMat/Content/' took 0.00s
+[2020.11.14-13.54.07:496][  0]SourceControl: Source control is disabled
+[2020.11.14-13.54.07:496][  0]LogUnrealEdMisc: Loading editor; pre map load, took 19.783
+[2020.11.14-13.54.07:496][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.14-13.54.07:496][  0]LogEditorServer: Warning: Can't find file '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.14-13.54.07:496][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.14-13.54.07:496][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2020.11.14-13.54.07:496][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2020.11.14-13.54.07:499][  0]LogUnrealEdMisc: Total Editor Startup Time, took 19.786
+[2020.11.14-13.54.07:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.14-13.54.07:626][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.14-13.54.07:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.14-13.54.07:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.14-13.54.08:151][  0]LogCollectionManager: Loaded 0 collections in 0.001537 seconds
+[2020.11.14-13.54.08:174][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/AutoLandscapeMat/Saved/Collections/' took 0.00s
+[2020.11.14-13.54.08:175][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/AutoLandscapeMat/Content/Developers/nitro/Collections/' took 0.00s
+[2020.11.14-13.54.08:175][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/AutoLandscapeMat/Content/Collections/' took 0.00s
+[2020.11.14-13.54.08:175][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 3446 classes and 828 folders.
+[2020.11.14-13.54.08:377][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.11.14-13.54.08:482][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.11.14-13.54.08:501][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2020.11.14-13.54.08:532][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.14-13.54.08:534][  0]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.14-13.54.08:541][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.14-13.54.08:625][  0]LogRenderer: Reallocating scene render targets to support 1316x592 Format 10 NumSamples 1 (Frame:1).
+[2020.11.14-13.54.08:745][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.11.14-13.54.08:745][  0]LogLoad: (Engine Initialization) Total time: 21.03 seconds
+[2020.11.14-13.54.08:745][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.14-13.54.08:793][  0]LogAssetRegistry: Asset discovery search completed in 11.8073 seconds
+[2020.11.14-13.54.08:801][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.11.14-13.54.08:802][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.14-13.54.08:822][  0]LogSlate: Took 0.000422 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.14-13.54.24:690][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:690][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:690][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:690][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:690][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:691][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:692][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:693][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:693][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:693][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:693][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:693][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:693][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:694][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:695][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:696][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:696][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:696][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:696][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:698][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:699][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:699][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:699][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:699][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:699][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:699][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:699][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:700][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:701][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:701][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:701][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:701][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:701][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:701][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:702][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:703][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:703][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:703][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:703][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:703][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:704][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:704][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:704][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:704][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:704][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:709][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:709][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_d.T_grass_a_d Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:709][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:709][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:709][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_s.T_grass_a_s Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:710][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_n.T_grass_a_n Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:710][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_d.T_ground_a_d Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:710][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_s.T_ground_a_s Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:710][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:710][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_n.T_ground_a_n Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:711][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_s.T_cliff_a_s Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:711][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_n.T_cliff_a_n Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:711][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_d.T_cliff_a_d Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:711][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_s.T_ground_rocks_a_s Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:711][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:712][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_d.T_ground_rocks_a_d Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:712][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:712][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:712][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_n.T_ground_rocks_a_n Referenced by LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.24:712][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial_Inst.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:712][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:712][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_d.T_grass_a_d Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:712][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:713][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:713][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_s.T_grass_a_s Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:713][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:713][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:713][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_n.T_grass_a_n Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:713][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:713][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:714][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_d.T_ground_a_d Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:714][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:714][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:714][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_s.T_ground_a_s Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:714][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:714][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:714][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_n.T_ground_a_n Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:714][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:715][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_s.T_cliff_a_s Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:715][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_n.T_cliff_a_n Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:715][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_d.T_cliff_a_d Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:715][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_s.T_ground_rocks_a_s Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:715][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:715][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_d.T_ground_rocks_a_d Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:716][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:716][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:716][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_n.T_ground_rocks_a_n Referenced by LandscapeAutoMaterial
+[2020.11.14-13.54.24:716][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:717][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:717][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_n.T_cliff_a_n Referenced by MaterialExpressionTextureObject_0
+[2020.11.14-13.54.24:717][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_n': Can't find file.
+[2020.11.14-13.54.24:717][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:717][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_d.T_cliff_a_d Referenced by MaterialExpressionTextureObject_1
+[2020.11.14-13.54.24:717][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_d': Can't find file.
+[2020.11.14-13.54.24:718][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:718][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_d.T_ground_rocks_a_d Referenced by MaterialExpressionTextureObject_6
+[2020.11.14-13.54.24:718][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_d': Can't find file.
+[2020.11.14-13.54.24:718][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:718][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_n.T_ground_rocks_a_n Referenced by MaterialExpressionTextureObject_7
+[2020.11.14-13.54.24:718][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_n': Can't find file.
+[2020.11.14-13.54.24:718][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:718][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_d.T_grass_a_d Referenced by MaterialExpressionTextureSample_0
+[2020.11.14-13.54.24:718][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_d': Can't find file.
+[2020.11.14-13.54.24:718][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:718][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_s.T_grass_a_s Referenced by MaterialExpressionTextureSample_1
+[2020.11.14-13.54.24:719][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_s': Can't find file.
+[2020.11.14-13.54.24:719][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:719][314]LoadErrors: Failed to load /Game/Textures/T_ground_rocks_a_s.T_ground_rocks_a_s Referenced by MaterialExpressionTextureSample_10
+[2020.11.14-13.54.24:719][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_rocks_a_s': Can't find file.
+[2020.11.14-13.54.24:719][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:719][314]LoadErrors: Failed to load /Game/Textures/T_grass_a_n.T_grass_a_n Referenced by MaterialExpressionTextureSample_2
+[2020.11.14-13.54.24:719][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_grass_a_n': Can't find file.
+[2020.11.14-13.54.24:719][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:719][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_d.T_ground_a_d Referenced by MaterialExpressionTextureSample_3
+[2020.11.14-13.54.24:720][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_d': Can't find file.
+[2020.11.14-13.54.24:720][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:720][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_s.T_ground_a_s Referenced by MaterialExpressionTextureSample_4
+[2020.11.14-13.54.24:720][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_s': Can't find file.
+[2020.11.14-13.54.24:720][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:720][314]LoadErrors: Failed to load /Game/Textures/T_ground_a_n.T_ground_a_n Referenced by MaterialExpressionTextureSample_5
+[2020.11.14-13.54.24:720][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_ground_a_n': Can't find file.
+[2020.11.14-13.54.24:720][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:721][314]LoadErrors: Failed to load /Game/Textures/T_cliff_a_s.T_cliff_a_s Referenced by MaterialExpressionTextureSample_8
+[2020.11.14-13.54.24:721][314]LogLinker: Warning: While loading '../../../../../Unreal Projects/AutoLandscapeMat/Content/ThirdPersonBP/LandscapeAutoMaterial.uasset' failed to load '/Game/Textures/T_cliff_a_s': Can't find file.
+[2020.11.14-13.54.24:723][314]LogMaterial: Display: Missing cached shader map for material LandscapeAutoMaterial, compiling. 
+[2020.11.14-13.54.24:729][314]LogMaterial: Warning: D:\Unreal Projects\AutoLandscapeMat\Content\ThirdPersonBP\LandscapeAutoMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2020.11.14-13.54.24:729][314]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2020.11.14-13.54.24:736][314]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.14-13.54.24:755][314]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/ThirdPersonBP/LandscapeAutoMaterial_Inst.LandscapeAutoMaterial_Inst
+[2020.11.14-13.54.25:223][314]LogStaticMesh: Allocated 351x64x64 distance field atlas = 2.7Mb, with 27 objects containing 1.8Mb backing data
+[2020.11.14-13.54.26:992][429]LogRenderer: Reallocating scene render targets to support 1316x920 Format 10 NumSamples 1 (Frame:4).
+[2020.11.14-13.54.27:713][468]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/LandscapeAutoMaterial.LandscapeAutoMaterial
+[2020.11.14-13.54.27:718][468]LogMaterial: Display: Missing cached shader map for material LandscapeAutoMaterial, compiling. 
+[2020.11.14-13.54.27:723][468]LogMaterial: Warning: /Engine/Transient.LandscapeAutoMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2020.11.14-13.54.27:723][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2020.11.14-13.54.27:802][468]LogMaterial: Display: Missing cached shader map for material LandscapeAutoMaterial, compiling. 
+[2020.11.14-13.54.27:808][468]LogMaterial: Warning: /Engine/Transient.LandscapeAutoMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2020.11.14-13.54.27:808][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2020.11.14-13.54.27:812][468]LogMaterial: Display: Missing cached shader map for material LandscapeAutoMaterial, compiling. 
+[2020.11.14-13.54.27:819][468]LogMaterial: Warning: /Engine/Transient.LandscapeAutoMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	(Node TextureObject) Texture Object> Requires valid texture
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2020.11.14-13.54.27:819][468]LogMaterial: Display: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2020.11.14-13.54.27:828][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_4, compiling. 
+[2020.11.14-13.54.27:844][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.14-13.54.27:845][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.14-13.54.27:846][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.11.14-13.54.27:847][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.11.14-13.54.27:848][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.11.14-13.54.27:849][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.11.14-13.54.27:849][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2020.11.14-13.54.27:850][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2020.11.14-13.54.27:851][468]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.11.14-13.54.27:851][468]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.11.14-13.54.27:851][468]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.14-13.54.27:851][468]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.11.14-13.54.27:851][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2020.11.14-13.54.27:852][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.11.14-13.54.27:856][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.11.14-13.54.27:859][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_1, compiling. 
+[2020.11.14-13.54.27:862][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2020.11.14-13.54.27:863][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_6, compiling. 
+[2020.11.14-13.54.27:865][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_7, compiling. 
+[2020.11.14-13.54.27:866][468]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] (Node TextureObject) Texture Object> Requires valid texture
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] (Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] (Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] (Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] (Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property AmbientOcclusion
+[2020.11.14-13.54.27:906][468]MaterialEditorStats: Error: [SM5] Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property PixelDepthOffset
+[2020.11.14-13.54.27:913][468]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.14-13.54.28:076][468]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.14-13.54.28:719][506]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.14-13.54.29:045][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.11.14-13.54.29:200][528]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.11.14-13.54.29:238][530]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.11.14-13.54.29:346][535]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.11.14-13.54.29:742][552]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.11.14-13.54.29:797][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.11.14-13.54.29:941][563]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.11.14-13.54.29:957][564]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.11.14-13.54.30:294][582]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.11.14-13.54.30:450][590]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.11.14-13.54.30:550][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.11.14-13.54.30:648][601]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.11.14-13.54.30:795][607]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.11.14-13.54.31:082][621]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.11.14-13.54.31:161][625]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.11.14-13.54.31:327][634]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.11.14-13.56.23:645][534]LogSlate: Window 'LandscapeAutoMaterial' being destroyed
+[2020.11.14-13.56.23:654][534]LogSlate: Window 'LandscapeAutoMaterial' being destroyed
+[2020.11.14-13.56.23:685][534]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.11.14-13.56.23:685][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.14-13.56.23:735][534]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.11.14-13.56.23:735][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.14-13.56.23:950][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.14-13.56.24:020][553]LogSlate: Window 'AutoLandscapeMat - Unreal Editor' being destroyed
+[2020.11.14-13.56.24:021][553]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.14-13.56.24:132][554]Cmd: QUIT_EDITOR
+[2020.11.14-13.56.24:132][554]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.11.14-13.56.24:143][554]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.11.14-13.56.24:201][554]LogExit: Preparing to exit.
+[2020.11.14-13.56.24:455][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.11.14-13.56.24:563][554]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.11.14-13.56.24:572][554]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.11.14-13.56.24:579][554]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.11.14-13.56.24:579][554]LogExit: Editor shut down
+[2020.11.14-13.56.24:580][554]LogExit: Transaction tracking system shut down
+[2020.11.14-13.56.24:837][554]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001D6A923DBC0), frame # 1554
+[2020.11.14-13.56.24:837][554]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6A916FC40), frame # 1554
+[2020.11.14-13.56.24:837][554]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6A91E1C00), frame # 1554
+[2020.11.14-13.56.24:841][554]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6B440E200), frame # 1554
+[2020.11.14-13.56.24:841][554]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6B4437240), frame # 1554
+[2020.11.14-13.56.24:882][554]LogExit: Object subsystem successfully closed.
+[2020.11.14-13.56.24:923][554]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.11.14-13.56.24:941][554]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (794)
+[2020.11.14-13.56.24:941][554]LogModuleManager: Shutting down and abandoning module SceneOutliner (792)
+[2020.11.14-13.56.24:941][554]LogModuleManager: Shutting down and abandoning module AddContentDialog (790)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module WidgetCarousel (789)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module EditorWidgets (786)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module CollectionManager (784)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (782)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module FoliageEdit (780)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module LandscapeEditor (778)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module MeshPaintMode (776)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (774)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module ActorPickerMode (772)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (770)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (768)
+[2020.11.14-13.56.24:942][554]LogModuleManager: Shutting down and abandoning module AutomationWorker (766)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module SteamVREditor (764)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module OculusMR (762)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module GooglePADEditor (760)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (758)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (756)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (754)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (752)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (750)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (748)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (746)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (744)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (742)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module WebMMedia (740)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (738)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (736)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module SequenceRecorder (735)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (732)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (730)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (728)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (726)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (724)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (722)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (720)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (718)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (716)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (714)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module PlanarCut (712)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module CharacterAI (710)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module TextureAlignMode (708)
+[2020.11.14-13.56.24:943][554]LogModuleManager: Shutting down and abandoning module BspMode (706)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module PlacementMode (705)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module GeometryMode (702)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (700)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module SmartSnapping (698)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module SessionServices (696)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module MeshPaint (694)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module ViewportSnapping (692)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module ViewportInteraction (690)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module ClothPainter (688)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (687)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module LogVisualizer (684)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module IntroTutorials (682)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (681)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (678)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (676)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (674)
+[2020.11.14-13.56.24:944][554]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (673)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (670)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (668)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (666)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (664)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module TraceInsights (662)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module TraceServices (661)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (658)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (656)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module InputBindingEditor (654)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module MergeActors (652)
+[2020.11.14-13.56.25:235][554]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (650)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module LocalizationService (649)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module HardwareTargeting (646)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (644)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module UndoHistory (642)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module XmlParser (640)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module Blutility (638)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (636)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (635)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (632)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module SettingsEditor (630)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module ProjectLauncher (628)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module SessionFrontend (626)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module ProfilerClient (624)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module DeviceManager (622)
+[2020.11.14-13.56.25:236][554]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (621)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module AutomationController (618)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module AutomationWindow (616)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module Layers (614)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (612)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module DetailCustomizations (610)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module PackagesDialog (608)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (606)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module Persona (604)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (603)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module AnimGraph (601)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module Kismet (598)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module KismetWidgets (597)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module GraphEditor (594)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module StructViewer (592)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module ClassViewer (590)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module Toolbox (588)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module ModuleUI (586)
+[2020.11.14-13.56.25:269][554]LogModuleManager: Shutting down and abandoning module OutputLog (584)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module GammaUI (582)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module Documentation (580)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module LiveCoding (578)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module LevelSequence (576)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (574)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module MovieScene (572)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (570)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module LauncherPlatform (568)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module AnalyticsET (566)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module PortalServices (564)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module PortalRpc (562)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module MessagingRpc (560)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (558)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module AudioMixerCore (557)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module AIModule (554)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module GameplayDebugger (553)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module AITestSuite (551)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module NavigationSystem (549)
+[2020.11.14-13.56.25:270][554]LogModuleManager: Shutting down and abandoning module ProfilerService (546)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module TaskGraph (544)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module MegascansPlugin (542)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module ScreenshotTools (540)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module SynthesisEditor (538)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module Synthesis (536)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (534)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (532)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module OculusEditor (530)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module OculusInput (528)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (526)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module EditableMesh (522)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (520)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (510)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (508)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module AppleImageUtils (506)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module AndroidPermission (504)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (502)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (500)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module TemplateSequence (498)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (496)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (494)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (492)
+[2020.11.14-13.56.25:479][554]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (490)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (489)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (486)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (484)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MediaCompositing (482)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module ImgMedia (480)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (478)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (476)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (474)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (472)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (470)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (466)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module MeshConversion (464)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module DynamicMesh (462)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (460)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module GeometricObjects (458)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (456)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (455)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (452)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (450)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (448)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (446)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module ChaosNiagara (444)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module FractureEditor (442)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (440)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module ChaosCloth (438)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module BackChannel (436)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (434)
+[2020.11.14-13.56.25:480][554]LogModuleManager: Shutting down and abandoning module AutomationUtils (432)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module AlembicImporter (430)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module AlembicLibrary (429)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module GeometryCache (428)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (427)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (422)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (420)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (418)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module PluginBrowser (416)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (414)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (412)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (410)
+[2020.11.14-13.56.25:481][554]LogModuleManager: Shutting down and abandoning module CurveEditorTools (408)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (406)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module CryptoKeys (404)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (402)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (400)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module UObjectPlugin (398)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (396)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (394)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (392)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (390)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module GitSourceControl (388)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module SourceControl (387)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (384)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (382)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (380)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (378)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (376)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (374)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (372)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module Paper2DEditor (370)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module SoundFields (368)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module SignificanceManager (366)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (364)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (362)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (358)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module ActorSequence (356)
+[2020.11.14-13.56.25:482][554]LogModuleManager: Shutting down and abandoning module UdpMessaging (354)
+[2020.11.14-13.56.25:583][554]LogModuleManager: Shutting down and abandoning module TcpMessaging (352)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (350)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (348)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (346)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (344)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (342)
+[2020.11.14-13.56.25:684][554]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (340)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (338)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (336)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (334)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapController (332)
+[2020.11.14-13.56.25:684][554]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (330)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module MagicLeapAR (328)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module AugmentedReality (327)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (324)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module Niagara (322)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module SignalProcessing (321)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module NiagaraEditor (319)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module NiagaraCore (316)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (314)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (312)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (310)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module FacialAnimation (308)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module DataValidation (306)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (304)
+[2020.11.14-13.56.25:684][554]LogModuleManager: Shutting down and abandoning module LevelEditor (303)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (302)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (300)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module MainFrame (298)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module HotReload (297)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module ToolMenus (293)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module TreeMap (291)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module AnimationSharing (288)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (286)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module Paper2D (284)
+[2020.11.14-13.56.25:685][554]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (282)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (280)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (278)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module PacketHandler (276)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (274)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (272)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module MediaAssets (270)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module Overlay (268)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module OverlayEditor (267)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module VREditor (264)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module StringTableEditor (262)
+[2020.11.14-13.56.25:686][554]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (260)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (258)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module FunctionalTesting (256)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (254)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module UMG (252)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module UMGEditor (251)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module MessageLog (249)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module MaterialEditor (247)
+[2020.11.14-13.56.25:687][554]LogModuleManager: Shutting down and abandoning module ContentBrowser (246)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module SlateReflector (238)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module Slate (236)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module SlateCore (234)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (232)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module UnrealEd (230)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module MRMesh (228)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (226)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (224)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module XAudio2 (222)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module Networking (220)
+[2020.11.14-13.56.25:688][554]LogModuleManager: Shutting down and abandoning module Core (218)
+[2020.11.14-13.56.25:689][554]LogModuleManager: Shutting down and abandoning module MovieSceneTools (216)
+[2020.11.14-13.56.25:689][554]LogModuleManager: Shutting down and abandoning module CurveEditor (215)
+[2020.11.14-13.56.25:689][554]LogModuleManager: Shutting down and abandoning module Sequencer (213)
+[2020.11.14-13.56.25:689][554]LogModuleManager: Shutting down and abandoning module EditorStyle (212)
+[2020.11.14-13.56.25:690][554]LogModuleManager: Shutting down and abandoning module KismetCompiler (208)
+[2020.11.14-13.56.25:690][554]LogModuleManager: Shutting down and abandoning module MeshBuilder (206)
+[2020.11.14-13.56.25:690][554]LogModuleManager: Shutting down and abandoning module MeshUtilities (204)
+[2020.11.14-13.56.25:690][554]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (203)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (202)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (201)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (199)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (197)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (195)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module MaterialBaking (191)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (186)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module DerivedDataCache (184)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module XGEController (182)
+[2020.11.14-13.56.25:691][554]LogXGEController: Cleaning working directory: C:/Users/nitro/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module TargetPlatform (180)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (179)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (177)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (175)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (173)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (171)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (169)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (167)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (165)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (163)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (161)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module ImageWrapper (160)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (157)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (155)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (153)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (151)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (149)
+[2020.11.14-13.56.25:691][554]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (147)
+[2020.11.14-13.56.25:692][554]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (145)
+[2020.11.14-13.56.25:692][554]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (143)
+[2020.11.14-13.56.25:692][554]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (141)
+[2020.11.14-13.56.25:693][554]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (139)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (137)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (135)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (133)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (131)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (129)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (127)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module Messaging (123)
+[2020.11.14-13.56.25:694][554]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (121)
+[2020.11.14-13.56.25:695][554]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (119)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (117)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module InputCore (114)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module Settings (112)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (110)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module PhysXCooking (108)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module ChaosSolvers (106)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (105)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module Chaos (102)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (100)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (99)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module AVEncoder (98)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (94)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module SteamVRInput (92)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module SteamVR (90)
+[2020.11.14-13.56.25:700][554]LogHMD: Freeing OpenVRDLLHandle.
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module OculusHMD (88)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (86)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (84)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (82)
+[2020.11.14-13.56.25:700][554]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (78)
+[2020.11.14-13.56.25:702][554]LogModuleManager: Shutting down and abandoning module XMPP (73)
+[2020.11.14-13.56.25:702][554]LogModuleManager: Shutting down and abandoning module WebSockets (72)
+[2020.11.14-13.56.25:715][554]LogModuleManager: Shutting down and abandoning module HTTP (69)
+[2020.11.14-13.56.25:715][554]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.14-13.56.25:715][554]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2850938E-4EF4-8375-0F06-64AD24832A90%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=899f60e9495319eb3eff648802e847a7%7Cb66ed01d48fe491c8d6e3431790f8c14%7C4230c61b-37cb-46af-8f18-9501f39248fe&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.11.14-13.56.25:745][554]LogModuleManager: Shutting down and abandoning module SSL (68)
+[2020.11.14-13.56.25:746][554]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2020.11.14-13.56.25:749][554]LogModuleManager: Shutting down and abandoning module Media (63)
+[2020.11.14-13.56.25:751][554]LogModuleManager: Shutting down and abandoning module MagicLeap (60)
+[2020.11.14-13.56.25:751][554]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2020.11.14-13.56.25:751][554]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2020.11.14-13.56.25:751][554]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2020.11.14-13.56.25:751][554]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2020.11.14-13.56.25:751][554]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2020.11.14-13.56.25:751][554]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.11.14-13.56.25:752][554]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.11.14-13.56.25:754][554]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.11.14-13.56.25:754][554]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.11.14-13.56.25:755][554]LogD3D11RHI: Shutdown
+[2020.11.14-13.56.25:755][554]LogD3D11RHI: CleanupD3DDevice
+[2020.11.14-13.56.25:777][554]LogExit: Exiting.
+[2020.11.14-13.56.25:843][554]Log file closed, 11/14/20 15:56:25
